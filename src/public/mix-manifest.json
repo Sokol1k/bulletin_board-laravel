@@ -1,0 +1,9 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/css/app.css": "/css/app.css",
+    "/js/countUsers.js": "/js/countUsers.js",
+    "/js/createBulletin.js": "/js/createBulletin.js",
+    "/js/editBulletin.js": "/js/editBulletin.js",
+    "/js/usersBulletins.js": "/js/usersBulletins.js",
+    "/js/usersList.js": "/js/usersList.js"
+}
